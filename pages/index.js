@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hi! I am a developer that likes to make fun projects!</p>
-        <p> Link to to first post <Link href="/posts/first-post">here</Link> </p>
+        <p> Link to first post coming soon! </p>
         <p>
           If you like this stay tuned for more!
         </p>
