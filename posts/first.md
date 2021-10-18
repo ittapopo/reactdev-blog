@@ -1,9 +1,9 @@
 ---
 title: 'Dag 1'
-date: '2021-08-29'
+date: '2021-09-29'
 ---
 
-Starter med å klargjøre pcen for arbeid, oppdaterer visual studio. Samler prosjekter fra flowerpower prosjekt, blender og unity. Tenker og utvikle en møteapp, hvor en kan logge møter og folk kan bli med i React og ASP.NET(finn fordeler og ulemper. begrunn hvorfor). SPA arkitektur
+Starter med å klargjøre pcen for arbeid, oppdaterer visual studio. Samler innhold fra flowerpower prosjekt, blender og unity. Tenker å utvikle en møteapp, hvor en kan logge møter som folk kan bli med i React og ASP.NET(finn fordeler og ulemper. begrunn hvorfor). SPA arkitektur
 
 Første hindring: bruke .NET 5(current) eller .NET 3 som jeg er vant med?
 Konfigurerer visual studio med github
